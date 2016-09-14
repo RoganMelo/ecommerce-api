@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/ecommerceApi",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "CwYdho/G7PN0CQFLV0MdiLyO6kXePEgGC33UlR2GScTW1AnZzQ0Wth6a646JT3ZdYgBs0tfFvBdP0obDTr+QrA=="
+    },
+    "local": {}
+  }
+}
