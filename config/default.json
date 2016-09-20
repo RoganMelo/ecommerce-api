@@ -1,5 +1,5 @@
 {
-  "host": "localhost",
+  "host": "172.16.16.128",
   "port": 3030,
   "mongodb": "mongodb://localhost:27017/ecommerceApi",
   "public": "../public/",
