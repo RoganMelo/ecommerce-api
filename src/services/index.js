@@ -1,7 +1,5 @@
 'use strict';
 const product = require('./product');
-const product = require('./product');
-const product = require('./product');
 const contact = require('./contact');
 const authentication = require('./authentication');
 const user = require('./user');
@@ -15,7 +13,5 @@ module.exports = function() {
   app.configure(authentication);
   app.configure(user);
   app.configure(contact);
-  app.configure(product);
-  app.configure(product);
   app.configure(product);
 };
